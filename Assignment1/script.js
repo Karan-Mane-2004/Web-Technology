@@ -12,7 +12,7 @@ document
       message.innerText = "Login successful!";
     } else {
       message.style.color = "red";
-      alert();
+      
       message.innerText = "Invalid username or password";
     }
   });
